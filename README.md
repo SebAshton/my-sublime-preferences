@@ -6,7 +6,7 @@
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 2,
 	"caret_extra_top": 2,
-	"caret_extra_width": 3,
+	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
